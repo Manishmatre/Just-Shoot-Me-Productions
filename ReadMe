@@ -1,0 +1,34 @@
+#this is a new file in git
+#first add and than commit
+
+1. connect to repository from GitHub
+
+
+git config --global user.name "Manish Matre"
+git config --global user.email 
+
+==========================================================pr
+
+
+first need to clone our project in local machine
+
+
+command :-  git clone link of reposetry
+
+and go to the clone folder using cd cloned folder name
+
+now check the status of the code :- git status
+
+
+4 status when changing
+
+1. untracked - new file jo ki GitHub me abhi tak thi hi nahi 
+
+2. modigied --  changed file 
+
+3. staged -- file is ready to be committed 
+
+4. unmodified unchanged
+
+
+this is commited
